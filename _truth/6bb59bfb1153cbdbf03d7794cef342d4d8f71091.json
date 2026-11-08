@@ -1,0 +1,8 @@
+{
+  "sha": "6bb59bfb1153cbdbf03d7794cef342d4d8f71091",
+  "type": "test-edit",
+  "expected_affected": [
+    "packages/apps/apps-0023/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
