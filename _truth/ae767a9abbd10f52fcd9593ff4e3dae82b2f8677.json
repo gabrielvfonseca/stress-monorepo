@@ -1,0 +1,6 @@
+{
+  "sha": "ae767a9abbd10f52fcd9593ff4e3dae82b2f8677",
+  "type": "rename-file",
+  "expected_affected": [],
+  "must_fail": []
+}
