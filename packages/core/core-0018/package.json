@@ -9,5 +9,6 @@
     "lint": "node -e \"process.stdout.write('ok')\"",
     "typecheck": "node -e \"process.stdout.write('ok')\""
   },
-  "dependencies": {}
+  "dependencies": {},
+  "description": "renamed-marker-18"
 }
