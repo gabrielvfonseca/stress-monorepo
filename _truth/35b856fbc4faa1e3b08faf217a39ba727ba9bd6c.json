@@ -1,0 +1,8 @@
+{
+  "sha": "35b856fbc4faa1e3b08faf217a39ba727ba9bd6c",
+  "type": "config-vitest",
+  "expected_affected": [
+    "packages/features/features-0035/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
