@@ -1,0 +1,6 @@
+{
+  "sha": "342c0d9a3326968aff5b9f69287d89015d13c6d8",
+  "type": "behavior-break",
+  "expected_affected": [],
+  "must_fail": []
+}
