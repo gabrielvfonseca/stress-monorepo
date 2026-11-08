@@ -1,0 +1,10 @@
+{
+  "sha": "5e6840a283319b086e7f00f11c61e880248e643b",
+  "type": "heal",
+  "expected_affected": [
+    "packages/libs/libs-0153/test/spec-00000.test.ts"
+  ],
+  "must_fail": [
+    "packages/libs/libs-0153/test/spec-00000.test.ts"
+  ]
+}
