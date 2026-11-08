@@ -5,7 +5,7 @@ import { base as b2 } from '@stress/core-0003';
 import { base as b3 } from '@stress/core-0074';
 import { base as b4 } from '@stress/libs-0012';
 export const name = 'features-0014';
-export const base = 853;
+export const base = 864;
 export function compute(input: number): number {
   return base + (b0 + b1 + b2 + b3 + b4) + input;
 }
