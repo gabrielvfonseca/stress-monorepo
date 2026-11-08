@@ -1,0 +1,8 @@
+{
+  "sha": "7d6efa18e24853307904c79b669fe0c575e35453",
+  "type": "fixture",
+  "expected_affected": [
+    "packages/features/features-0076/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
