@@ -1,0 +1,6 @@
+{
+  "sha": "c2cc240ed049a1b8d1e206b712597f2bbf155508",
+  "type": "move-file",
+  "expected_affected": [],
+  "must_fail": []
+}

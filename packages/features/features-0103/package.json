@@ -12,5 +12,6 @@
   "dependencies": {
     "@stress/core-0003": "workspace:*",
     "@stress/core-0004": "workspace:*"
-  }
+  },
+  "description": "renamed-marker-378"
 }
