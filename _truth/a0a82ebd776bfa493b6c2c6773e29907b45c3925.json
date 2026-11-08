@@ -1,0 +1,8 @@
+{
+  "sha": "a0a82ebd776bfa493b6c2c6773e29907b45c3925",
+  "type": "test-edit",
+  "expected_affected": [
+    "packages/features/features-0119/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
