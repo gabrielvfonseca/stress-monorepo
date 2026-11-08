@@ -1,0 +1,6 @@
+{
+  "sha": "46fade45200e2ad7127de182f5899994bf7504f0",
+  "type": "delete-file",
+  "expected_affected": [],
+  "must_fail": []
+}
