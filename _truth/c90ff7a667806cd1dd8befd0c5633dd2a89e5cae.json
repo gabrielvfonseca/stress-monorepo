@@ -1,0 +1,8 @@
+{
+  "sha": "c90ff7a667806cd1dd8befd0c5633dd2a89e5cae",
+  "type": "config-tsconfig",
+  "expected_affected": [
+    "packages/libs/libs-0151/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
