@@ -1,0 +1,8 @@
+{
+  "sha": "94428959b65411e7d9e36ba304014a4022a6f91b",
+  "type": "readdir-add",
+  "expected_affected": [
+    "packages/core/core-0034/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
