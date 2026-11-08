@@ -1,0 +1,10 @@
+{
+  "sha": "0e767bde0ced48aae11cf870616bea7ff3cbe059",
+  "type": "env",
+  "expected_affected": [
+    "packages/core/core-0038/test/spec-00000.test.ts",
+    "packages/core/core-0086/test/spec-00000.test.ts",
+    "packages/features/features-0075/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
