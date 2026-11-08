@@ -10,3 +10,5 @@ export function compute(input: number): number {
   return base + (b0 + b1 + b2 + b3 + b4) + input;
 }
 export default compute;
+
+// note 274
