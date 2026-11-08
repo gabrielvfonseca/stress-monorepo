@@ -1,0 +1,13 @@
+{
+  "name": "@stress/core-0057",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"process.stdout.write('ok')\"",
+    "test": "vitest run --config ../../../vitest.config.ts --dir .",
+    "lint": "node -e \"process.stdout.write('ok')\"",
+    "typecheck": "node -e \"process.stdout.write('ok')\""
+  },
+  "dependencies": {}
+}

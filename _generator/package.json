@@ -1,0 +1,5 @@
+{
+  "name": "stress-monorepo-generator",
+  "private": true,
+  "type": "module"
+}

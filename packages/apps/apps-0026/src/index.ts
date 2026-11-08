@@ -1,0 +1,12 @@
+// @stress/apps-0026
+import { base as b0 } from '@stress/core-0000';
+import { base as b1 } from '@stress/features-0007';
+import { base as b2 } from '@stress/libs-0066';
+import { base as b3 } from '@stress/features-0019';
+import { base as b4 } from '@stress/libs-0084';
+export const name = 'apps-0026';
+export const base = 322;
+export function compute(input: number): number {
+  return base + (b0 + b1 + b2 + b3 + b4) + input;
+}
+export default compute;

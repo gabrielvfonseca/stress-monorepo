@@ -1,0 +1,6 @@
+node_modules/
+dist/
+_generator/node_modules/
+*.tsbuildinfo
+.turbo/
+out/

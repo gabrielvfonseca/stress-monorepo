@@ -1,0 +1,17 @@
+{
+  "name": "@stress/apps-0030",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"process.stdout.write('ok')\"",
+    "test": "vitest run --config ../../../vitest.config.ts --dir .",
+    "lint": "node -e \"process.stdout.write('ok')\"",
+    "typecheck": "node -e \"process.stdout.write('ok')\""
+  },
+  "dependencies": {
+    "@stress/libs-0049": "workspace:*",
+    "@stress/features-0083": "workspace:*",
+    "@stress/core-0085": "workspace:*"
+  }
+}

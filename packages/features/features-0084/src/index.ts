@@ -1,0 +1,11 @@
+// @stress/features-0084
+import { base as b0 } from '@stress/core-0002';
+import { base as b1 } from '@stress/core-0003';
+import { base as b2 } from '@stress/libs-0033';
+import { base as b3 } from '@stress/libs-0015';
+export const name = 'features-0084';
+export const base = 81;
+export function compute(input: number): number {
+  return base + (b0 + b1 + b2 + b3) + input;
+}
+export default compute;

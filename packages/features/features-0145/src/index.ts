@@ -1,0 +1,12 @@
+// @stress/features-0145
+import { base as b0 } from '@stress/core-0003';
+import { base as b1 } from '@stress/core-0004';
+import { base as b2 } from '@stress/core-0018';
+import { base as b3 } from '@stress/core-0050';
+export const name = 'features-0145';
+export const base = 690;
+export function compute(input: number): number {
+  return base + (b0 + b1 + b2 + b3) + input;
+}
+export * from './util';
+export default compute;
