@@ -17,6 +17,7 @@
         "packages/*/*/src/index.ts",
         "packages/*/*/src/index"
       ]
-    }
+    },
+    "rev": 14
   }
 }
