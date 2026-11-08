@@ -1,0 +1,10 @@
+{
+  "sha": "cbcb3b99b3d279c71a35e22ca28480f2d476b9fc",
+  "type": "behavior-break",
+  "expected_affected": [
+    "packages/core/core-0019/test/spec-00000.test.ts"
+  ],
+  "must_fail": [
+    "packages/core/core-0019/test/spec-00000.test.ts"
+  ]
+}
