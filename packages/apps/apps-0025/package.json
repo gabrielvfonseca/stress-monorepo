@@ -15,5 +15,6 @@
     "@stress/libs-0115": "workspace:*",
     "@stress/features-0094": "workspace:*",
     "@stress/libs-0141": "workspace:*"
-  }
+  },
+  "description": "renamed-marker-450"
 }
