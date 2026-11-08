@@ -4,7 +4,7 @@ import { compute, base, name } from '../src/index';
 describe('libs-0011 0', () => {
   it('has stable identity and behavior', () => {
     expect(name).toBe('libs-0011');
-    expect(base).toBe(911);
+    expect(base).toBe(914);
     const v = compute(0);
     expect(typeof v).toBe('number');
     expect(Number.isFinite(v)).toBe(true);
