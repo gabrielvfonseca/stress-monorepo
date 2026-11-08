@@ -4,3 +4,5 @@ _generator/node_modules/
 *.tsbuildinfo
 .turbo/
 out/
+
+.kilo/
