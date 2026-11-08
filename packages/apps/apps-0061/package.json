@@ -14,5 +14,6 @@
     "@stress/core-0022": "workspace:*",
     "@stress/core-0042": "workspace:*",
     "@stress/features-0086": "workspace:*"
-  }
+  },
+  "description": "renamed-marker-486"
 }
