@@ -13,5 +13,6 @@
     "@stress/core-0001": "workspace:*",
     "@stress/core-0002": "workspace:*",
     "@stress/core-0021": "workspace:*"
-  }
+  },
+  "description": "renamed-marker-180"
 }
