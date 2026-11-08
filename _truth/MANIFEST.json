@@ -1,0 +1,195 @@
+{
+  "size": "xl",
+  "seed": "stress-xl-10x",
+  "packages": 500,
+  "testFiles": 10002,
+  "hardCases": [
+    "dynamic-import-computed",
+    "cjs-require",
+    "workspace-symlink",
+    "fixture-fs-read",
+    "readdir-list",
+    "existsSync-optional",
+    "env-named",
+    "env-enumerate",
+    "config-tsconfig-paths",
+    "config-vitest",
+    "config-dotenv",
+    "config-root-shared",
+    "worker-thread",
+    "child-process",
+    "codegen-import",
+    "nondeterministic-clock",
+    "nondeterministic-random"
+  ],
+  "placements": [
+    {
+      "tag": "dynamic-import-computed",
+      "pkg": "@stress/features-0082",
+      "dir": "packages/features/features-0082"
+    },
+    {
+      "tag": "cjs-require",
+      "pkg": "@stress/libs-0042",
+      "dir": "packages/libs/libs-0042"
+    },
+    {
+      "tag": "workspace-symlink",
+      "pkg": "@stress/core-0079",
+      "dir": "packages/core/core-0079"
+    },
+    {
+      "tag": "fixture-fs-read",
+      "pkg": "@stress/features-0076",
+      "dir": "packages/features/features-0076"
+    },
+    {
+      "tag": "readdir-list",
+      "pkg": "@stress/core-0034",
+      "dir": "packages/core/core-0034"
+    },
+    {
+      "tag": "existsSync-optional",
+      "pkg": "@stress/core-0070",
+      "dir": "packages/core/core-0070"
+    },
+    {
+      "tag": "env-named",
+      "pkg": "@stress/core-0038",
+      "dir": "packages/core/core-0038"
+    },
+    {
+      "tag": "env-enumerate",
+      "pkg": "@stress/features-0075",
+      "dir": "packages/features/features-0075"
+    },
+    {
+      "tag": "config-tsconfig-paths",
+      "pkg": "@stress/libs-0151",
+      "dir": "packages/libs/libs-0151"
+    },
+    {
+      "tag": "config-vitest",
+      "pkg": "@stress/features-0035",
+      "dir": "packages/features/features-0035"
+    },
+    {
+      "tag": "config-dotenv",
+      "pkg": "@stress/core-0086",
+      "dir": "packages/core/core-0086"
+    },
+    {
+      "tag": "config-root-shared",
+      "pkg": "@stress/apps-0024",
+      "dir": "packages/apps/apps-0024"
+    },
+    {
+      "tag": "worker-thread",
+      "pkg": "@stress/features-0071",
+      "dir": "packages/features/features-0071"
+    },
+    {
+      "tag": "child-process",
+      "pkg": "@stress/features-0017",
+      "dir": "packages/features/features-0017"
+    },
+    {
+      "tag": "codegen-import",
+      "pkg": "@stress/libs-0171",
+      "dir": "packages/libs/libs-0171"
+    },
+    {
+      "tag": "nondeterministic-clock",
+      "pkg": "@stress/apps-0073",
+      "dir": "packages/apps/apps-0073"
+    },
+    {
+      "tag": "nondeterministic-random",
+      "pkg": "@stress/core-0021",
+      "dir": "packages/core/core-0021"
+    }
+  ],
+  "hardCaseTests": [
+    {
+      "tag": "nondeterministic-random",
+      "test": "packages/core/core-0021/test/hard-nondeterministic-random.test.ts",
+      "package": "@stress/core-0021"
+    },
+    {
+      "tag": "readdir-list",
+      "test": "packages/core/core-0034/test/spec-00000.test.ts",
+      "package": "@stress/core-0034"
+    },
+    {
+      "tag": "env-named",
+      "test": "packages/core/core-0038/test/spec-00000.test.ts",
+      "package": "@stress/core-0038"
+    },
+    {
+      "tag": "existsSync-optional",
+      "test": "packages/core/core-0070/test/spec-00000.test.ts",
+      "package": "@stress/core-0070"
+    },
+    {
+      "tag": "workspace-symlink",
+      "test": "packages/core/core-0079/test/spec-00000.test.ts",
+      "package": "@stress/core-0079"
+    },
+    {
+      "tag": "config-dotenv",
+      "test": "packages/core/core-0086/test/spec-00000.test.ts",
+      "package": "@stress/core-0086"
+    },
+    {
+      "tag": "cjs-require",
+      "test": "packages/libs/libs-0042/test/spec-00000.test.ts",
+      "package": "@stress/libs-0042"
+    },
+    {
+      "tag": "config-tsconfig-paths",
+      "test": "packages/libs/libs-0151/test/spec-00000.test.ts",
+      "package": "@stress/libs-0151"
+    },
+    {
+      "tag": "codegen-import",
+      "test": "packages/libs/libs-0171/test/spec-00000.test.ts",
+      "package": "@stress/libs-0171"
+    },
+    {
+      "tag": "child-process",
+      "test": "packages/features/features-0017/test/spec-00000.test.ts",
+      "package": "@stress/features-0017"
+    },
+    {
+      "tag": "config-vitest",
+      "test": "packages/features/features-0035/test/spec-00000.test.ts",
+      "package": "@stress/features-0035"
+    },
+    {
+      "tag": "worker-thread",
+      "test": "packages/features/features-0071/test/spec-00000.test.ts",
+      "package": "@stress/features-0071"
+    },
+    {
+      "tag": "env-enumerate",
+      "test": "packages/features/features-0075/test/spec-00000.test.ts",
+      "package": "@stress/features-0075"
+    },
+    {
+      "tag": "fixture-fs-read",
+      "test": "packages/features/features-0076/test/spec-00000.test.ts",
+      "package": "@stress/features-0076"
+    },
+    {
+      "tag": "dynamic-import-computed",
+      "test": "packages/features/features-0082/test/spec-00000.test.ts",
+      "package": "@stress/features-0082"
+    },
+    {
+      "tag": "nondeterministic-clock",
+      "test": "packages/apps/apps-0073/test/hard-nondeterministic-clock.test.ts",
+      "package": "@stress/apps-0073"
+    }
+  ],
+  "head": "c3f8129ffd8d4225923bb7c3cb65cc2638600b69"
+}
