@@ -1,7 +1,7 @@
 // @stress/core-0091
 
 export const name = 'core-0091';
-export const base = 367;
+export const base = 375;
 export function compute(input: number): number {
   return base + (0) + input;
 }
