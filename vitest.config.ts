@@ -27,4 +27,4 @@ export default defineConfig({
     env: { STRESS_NAMED: 'named-ok', STRESS_ENUM: '1' },
   },
 });
-// history rev 283 pool=forks
+// history rev 301 pool=forks
