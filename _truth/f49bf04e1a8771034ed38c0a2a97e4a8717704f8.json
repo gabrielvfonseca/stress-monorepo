@@ -1,0 +1,8 @@
+{
+  "sha": "f49bf04e1a8771034ed38c0a2a97e4a8717704f8",
+  "type": "optional-create",
+  "expected_affected": [
+    "packages/core/core-0070/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
