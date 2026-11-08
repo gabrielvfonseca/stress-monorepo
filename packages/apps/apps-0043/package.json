@@ -17,5 +17,6 @@
     "@stress/core-0061": "workspace:*",
     "@stress/libs-0002": "workspace:*",
     "@stress/libs-0103": "workspace:*"
-  }
+  },
+  "description": "renamed-marker-468"
 }
