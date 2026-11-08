@@ -29,7 +29,7 @@ export function writeRoot(root, graph, sizeName) {
     tasks: {
       build: {
         dependsOn: ['^build'],
-        outputs: ['dist/**'],
+        outputs: [],
       },
       test: {
         dependsOn: ['^build'],
