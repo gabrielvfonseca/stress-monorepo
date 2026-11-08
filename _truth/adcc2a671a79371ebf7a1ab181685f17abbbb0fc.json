@@ -1,0 +1,6 @@
+{
+  "sha": "adcc2a671a79371ebf7a1ab181685f17abbbb0fc",
+  "type": "rename-package",
+  "expected_affected": [],
+  "must_fail": []
+}
