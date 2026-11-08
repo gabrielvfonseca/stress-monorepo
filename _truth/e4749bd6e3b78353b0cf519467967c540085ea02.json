@@ -1,0 +1,8 @@
+{
+  "sha": "e4749bd6e3b78353b0cf519467967c540085ea02",
+  "type": "behavior-consistent",
+  "expected_affected": [
+    "packages/features/features-0052/test/spec-00000.test.ts"
+  ],
+  "must_fail": []
+}
